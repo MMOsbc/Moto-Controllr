@@ -69,7 +69,7 @@ export default function RegisterScreen({ navigation }) {
         <View style={es.header}>
           <View style={es.logoBox}><Text style={es.logoLetra}>M</Text></View>
           <Text style={es.titulo}>Criar Conta</Text>
-          <Text style={es.subtitulo}>Junte-se ao MotoManager</Text>
+          <Text style={es.subtitulo}>Junte-se ao MotoControllr</Text>
         </View>
 
         <View style={es.card}>

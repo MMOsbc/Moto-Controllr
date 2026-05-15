@@ -25,7 +25,7 @@ export default function LoginScreen({ navigation }) {
       <ScrollView contentContainerStyle={es.scroll} keyboardShouldPersistTaps="handled">
         <View style={es.header}>
           <View style={es.logoBox}><Text style={es.logoLetra}>M</Text></View>
-          <Text style={es.titulo}>MotoManager</Text>
+          <Text style={es.titulo}>MotoControllr</Text>
           <Text style={es.subtitulo}>Controle completo da sua moto</Text>
         </View>
 
